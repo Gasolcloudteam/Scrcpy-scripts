@@ -1,4 +1,4 @@
-# Scrcpy-scripts
+# 关于Scrcpy-scripts
 
 Scrcpy-scripts是基于Scrcpy开源项目基础的adb一键脚本。Scrcpy是一个开源的Android屏幕共享工具，可以实现手机屏幕通过有线方式实时投射到电脑上，也可以无线投屏控制手机。
 
