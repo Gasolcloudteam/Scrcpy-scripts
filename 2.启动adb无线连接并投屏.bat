@@ -7,7 +7,7 @@ echo. 如果您是初次使用无线连接或者清除了相关凭证，请重�
 
 echo. 完成后首次配对后再使用无线功能！
 
-echo. --by 叶玖洛·星尘 作者博客:https://blog.xingchencloud.top/
+echo. --by 叶玖洛 作者博客:https://blog.xingchencloud.top/
 
 echo. 
 

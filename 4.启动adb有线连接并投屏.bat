@@ -5,7 +5,7 @@ title adb有线连接并投屏
 
 echo. 请确定您已打开开发者选项的USB调试功能，并数据线连接好手机。
 
-echo. --by 叶玖洛星尘 作者博客:https://blog.xingchencloud.top/
+echo. --by 叶玖洛 作者博客:https://blog.xingchencloud.top/
 
 echo. 
 
