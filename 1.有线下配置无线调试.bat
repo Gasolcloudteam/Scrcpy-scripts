@@ -1,17 +1,4 @@
 @echo off
-chcp 65001 >nul
-setlocal enabledelayedexpansion
-
-:: 设置ADB路径
-set ADB_PATH=%~dp0adb.exe
-
-:: 执行adb tcpip 5555命令
-%ADB_PATH% tcpip 5555
-
-:: 显示执行完毕
-echo 执行完毕
-
-:: 保持命令行终端打开
-pause
-
-endlocal
+setlocal DisableDelayedExpansion
+"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoLogo -NoProfile -ExecutionPolicy Bypass -File "%~dp0scripts\_scrcpy.ps1" setup %*
+exit /b %errorlevel%
